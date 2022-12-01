@@ -17,5 +17,5 @@ app.use('/animals', animalRouter)
 
 
 // tells me the PORT is responding to what I want it to do 
-app.listen(PORT, ()=> console.log(`Snakes on a plane ${PORT}`));
+app.listen(PORT, ()=> console.log(`Snakes on a plane ${PORT}`))
 
